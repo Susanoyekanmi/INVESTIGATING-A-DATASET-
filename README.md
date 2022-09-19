@@ -6,4 +6,4 @@ This project was carried by importing some useful libraries like
 Pandas,Numpy,matplotlib 
 I loaded the dataset using the panda .read method 
 I cleaned the dataset using python pandas functions 
-Then explored the dataset by posing and answering questions with the aid of matplotlib fir data visualization 
+Then explored the dataset by posing and answering questions with the aid of matplotlib for data visualization 
